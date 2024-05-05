@@ -1,0 +1,6 @@
+Notice!!
+
+You are here because, you tried to read input from the user and realised that the node.js engine doesn't allow the prompt() function.
+
+
+This means that Node.js has it's required syntax to read input from the user.
